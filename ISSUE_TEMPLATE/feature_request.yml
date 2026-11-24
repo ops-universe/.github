@@ -1,0 +1,8 @@
+name: Feature request
+description: Propose an improvement
+body:
+  - type: textarea
+    attributes:
+      label: Problem and acceptance criteria
+    validations:
+      required: true
